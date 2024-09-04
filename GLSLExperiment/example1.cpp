@@ -419,11 +419,11 @@ void Nha() {
 
 	//các tường khác
 //mặt trên
-	Tao(Translate(0, 4.45, 2.15) * Scale(21.13, 0.1, 26));//trên trước
-	//sau
-	Tao(Translate(-5.565, 4.45, -13) * Scale(10, 0.1, 4.3));//trên trái
-	Tao(Translate(9.065, 4.45, -13) * Scale(3, 0.1, 4.3));//trên trái
-	Tao(Translate(3.5, 4.45, -14.95) * Scale(8.13, 0.1, 0.4));//trên giữa
+	//Tao(Translate(0, 4.45, 2.15) * Scale(21.13, 0.1, 26));//trên trước
+	////sau
+	//Tao(Translate(-5.565, 4.45, -13) * Scale(10, 0.1, 4.3));//trên trái
+	//Tao(Translate(9.065, 4.45, -13) * Scale(3, 0.1, 4.3));//trên trái
+	//Tao(Translate(3.5, 4.45, -14.95) * Scale(8.13, 0.1, 0.4));//trên giữa
 
 
 	// mặt dưới
